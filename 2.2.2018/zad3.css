@@ -1,0 +1,15 @@
+p {
+border: 1px solid black;
+}
+
+.a{
+	outline-width:thick;
+	outline-style: double;
+	outline-color: red;
+}
+
+.b{
+	outline-width:3px;
+	outline-style: double;
+	outline-color:green;
+}

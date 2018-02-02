@@ -1,0 +1,20 @@
+.a{
+	position:relative;
+	width:200px;
+	height:200px;
+	background-color:pink;
+}
+.b{
+	position:relative;
+	width:200px;
+	height:200px;
+	left:200px;
+	background-color:blue;
+}
+.c{
+	position:relative;
+	width:200px;
+	height:200px;
+	background-color:green;
+}
+	

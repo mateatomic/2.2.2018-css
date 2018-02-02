@@ -1,0 +1,20 @@
+.a, .b {
+	border: 2px solid black;
+}
+
+.a {
+	width:150px;
+	height: 150px;
+	background-color: #45ada8;
+	position: absolute;
+	left: 100px;
+}
+
+.b {
+	width:75px;
+	height: 75px;
+	background-color: #547980;
+	position: absolute;
+	left: 20px;
+}
+
